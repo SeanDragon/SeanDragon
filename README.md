@@ -10,8 +10,10 @@
 </a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
-    
-<p>
+
+
+<!-- two row -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SeanDragon&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanDragon&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
