@@ -19,7 +19,7 @@
 </p>
 
 > A lovely😄 full stack engineer based in China,
-> currently finding a partner🤔 at Beijing or Wuhan.
+> currently finding a partner🤔 at Beijing.
 
 - ⚡ Read more about my [Blog](http://shangyulong.cn/)
 - 💬 Talk with me by [Email](mailto:syl8023who@gmail.com) or [Telegram](https://t.me/SeanDragon)
