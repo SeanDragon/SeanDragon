@@ -20,21 +20,23 @@
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/Aneureka" target="_blank">
+    <a href="https://twitter.com/SeanDragon" target="_blank">
         <img alt="Twitter"
              src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white"/>
     </a>
-
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=SeanDragon&color=ff69b3"/>
-
-    <a href="https://wakatime.com/@Aneureka" target="_blank">
-        <img alt="Wakatime" src="https://wakatime.com/badge/user/ff842c73-7152-4b40-885a-c5a749eb5688.svg"/>
+    <a href="https://wakatime.com/@SeanDragon" target="_blank">
+        <img alt="Wakatime" src="https://wakatime.com/badge/user/c7133f92-dac4-486d-b4ad-6351890dd95a.svg"/>
     </a>
-
-    <img alt="GitHub"
-         src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSeanDragon&longCache=true"/>
-
-    <img alt="picture" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+    <a href="https://github.com/SeanDragon">
+        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=SeanDragon&color=ff69b3"/>
+    </a>
+    <a href="https://github.com/SeanDragon">
+        <img alt="GitHub"
+             src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSeanDragon&longCache=true"/>
+    </a>
+    <a href="#">
+        <img alt="picture" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+    </a>
 </p>
 
 <details>
