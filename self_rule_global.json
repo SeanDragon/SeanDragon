@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "greasyfork.org",
+        "missav.pw",
+        "lambda.chat",
+        "oaipro.com",
+        "ra2web.com"
+      ],
+      "domain_keyword": [
+        "annas-archive"
+      ]
+    }
+  ]
+}
