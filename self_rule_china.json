@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "clash.razord.top",
+        "yacd.metacubex.one",
+        "yacd.haishan.me",
+        "d.metacubex.one"
+      ],
+      "domain_suffix": [
+        "micu.hk"
+      ],
+      "domain_keyword": [
+      ]
+    }
+  ]
+}
